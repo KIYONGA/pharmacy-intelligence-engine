@@ -1,0 +1,6 @@
+product_id,product_name,current_stock,reorder_level,unit_price,expiry_date
+1,Amoxicillin 500mg,50,20,15.00,2026-12-01
+2,Paracetamol 500mg,100,30,5.00,2027-05-15
+3,Artemether/Lumefantrine,5,15,120.00,2026-08-20
+4,Cetirizine 10mg,45,10,8.00,2026-11-10
+5,Insulin Solostar,12,5,1500.00,2026-06-30
